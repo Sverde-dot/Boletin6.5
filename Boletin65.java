@@ -23,7 +23,7 @@ public class Boletin65 {
         else if (obxMaior.getnum3()>obxMaior.getnum1() && obxMaior.getnum3()>obxMaior.getnum2())
         System.out.println(num3+" es el numero mayor");
         else
-        System.out.println("Hay números repetidos o iguales");
+        System.out.println("Escribe otros numeros");
     }
 
 
