@@ -35,35 +35,6 @@ public class clase5 {
     }
         public int getnum3(){
         return num3; 
+    } 
     }
-        
-        
-    public void Paso(int num1){
-           switch(num1){
-            case (num1>num2):
-               System.out.println("Estamos a lunes");     
-            break;
-            case 2:
-               System.out.println("Estamos a martes");     
-            break;
-            case 3:
-               System.out.println("Estamos a miercoles");     
-            break;
-            case 4:
-               System.out.println("Estamos a jueves");     
-            break;
-            case 5:
-               System.out.println("Estamos a viernes");     
-            break;
-            case 6:
-                System.out.println("Estamos a sabado");
-            break;
-            case 7:
-                System.out.println("Estamos a domingo");
-            break;
-            default: System.out.println("Numero erroneo");
-        }
-    }
-
-
     }
