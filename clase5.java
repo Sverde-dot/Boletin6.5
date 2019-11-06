@@ -1,4 +1,3 @@
-
 package boletin.pkg6.pkg5;
 
 import java.util.Scanner;
@@ -35,6 +34,8 @@ public class clase5 {
     }
         public int getnum3(){
         return num3; 
-    } 
     }
+        
+
     }
+
